@@ -1,0 +1,50 @@
+1
+Andrey Solovechkiy
+2
+3 4
+sluzhil
+2
+Maria Solovechkaia
+1 5
+3 4 6
+sluzhila
+3
+Ivan Solovechkiy
+0
+0
+ne sluzhil
+4
+Daria Solovechkaia
+0
+0
+ne sluzhila
+5
+Artem Petrushkin
+2
+0
+ne sluzhilo
+6
+Irina Petrushkina
+7
+8
+information of irina
+7
+George
+6
+8
+George Information
+8
+Anna
+0
+9
+Inf of anna
+9
+Nikita
+0
+10
+Inf of Nikita
+10
+Sofia
+0
+0
+inf of sofia
